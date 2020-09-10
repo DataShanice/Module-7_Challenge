@@ -1,2 +1,6 @@
 # Module-7_Challenge
 Module 7 Challenge 
+### Analysis (Written report) 
+The technical analysis that Bobby's Manager was completed and showed many results. The analysis was able to show many roles will need to be filled as the “silver tsunami” begins to make an impact. We were able to identify retirement-ready employees who qualify to mentor the next generation of Pewlett Hackard employees. During this analysis, it was broken up into 2 distinct deliverables. Deliverable 1 created an in depth table that contained the number of employees born betweem 1952-1995 who were nearly to retirement. This contained the Employees numbers, First and Last name, Job title, start dates as well as yearly salary. We were able to create a query that included the most recent title of the employees as well, in the event they switched titles throught their years of employment. 
+
+Deliverable 2 showed was strictly to showcase mentorship eligibility. The table that was create from this data included the Employee number, First and last name, Job title, and the from-end dates. In order for the employees to be eligible to participate in the mentorship program, employees will need to have a date of birth that falls between January 1, 1965 and December 31, 1965, so DOB was incredibily important to include in the analysis. 
